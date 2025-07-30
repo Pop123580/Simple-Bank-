@@ -1,28 +1,3 @@
-'''
-def greet(name="friend"):
-    print(f"Hello,{name}!")
-
-greet("Alice")
-greet()  
-'''
-
-'''
-def calculation(a,b):
-    return a/b,a*b,a+b,a-b
-DMAS=calculation((int(input("Enter first number: "))),int(input("Enter second number: ")))
-print("DMAS: ",DMAS)
-'''
-
-
-'''
-def square(a):
-    return a**2
-
-result=square(int(input("Enter a number: ")))
-print("Square result:", result)
-'''
-# __________________________________________________________________________________________________________________
-
 print("Welcome to Goku Bank")
 balance = 0.0
 attempts = 0
